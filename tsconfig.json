@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "downlevelIteration": true,
+    "lib": ["dom", "es2017"],
+    "strict": true,
+    "strictFunctionTypes": false,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "removeComments": true,
+    "target": "es5",
+    "jsx": "react",
+    "importHelpers": true,
+    "noEmitHelpers": true,
+    "noUnusedLocals": true,
+    "baseUrl": "./",
+    "paths": {
+      "components/*": ["src/components/*"]
+    }
+  }
+}

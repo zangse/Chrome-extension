@@ -1,0 +1,9 @@
+{
+  "name": "chrome-extension",
+  "description": "Use ReactJS to create chrome extensions.",
+  "private": true,
+  "author": "zangse@live.com",
+  "devDependencies": {
+    "lerna": "^3.17.0"
+  }
+}

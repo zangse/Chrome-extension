@@ -1,0 +1,9 @@
+node_modules/
+dist/
+yarn-error.log
+lerna-debug.log
+.history/
+.idea/
+.mantastyle-tmp/
+.vscode/
+.DS_Store
