@@ -1,0 +1,122 @@
+{
+    "appName":
+    {
+        "message": "hi Bookmarks"
+    },
+    "appDescription":
+    {
+        "message": " Manage your bookmarks and visit your bookmark through keywords searching on any page."
+    },
+    "searchPlaceholder":
+    {
+        "message": "Search(input keywords to auto match ) "
+    },
+    "noMatchResult":
+    {
+        "message": "No matching results,please try other keywords"
+    },
+    "searchText":
+    {
+        "message": "Search"
+    },
+    "allBookmarks":
+    {
+        "message": "All bookmarks"
+    },
+    "operateSuccess":
+    {
+        "message": "Operation succeed"
+    },
+    "operateCancel":
+    {
+        "message": "Operation has been canceled"
+    },
+    "browsingHistory":
+    {
+        "message": "Browsing history"
+    },
+    "bookmarksBar":
+    {
+        "message": "Bookmark tab"
+    },
+    "tipsText":
+    {
+        "message": "Tips"
+    },
+    "cancel":
+    {
+        "message": "Cancel"
+    },
+    "confirm":
+    {
+        "message": "Confirm"
+    },
+    "close":
+    {
+        "message": "Close"
+    },
+    "save":
+    {
+        "message": "Save"
+    },
+    "selectALL":
+    {
+        "message": "Select All"
+    },
+    "unSelect":
+    {
+        "message": "Invert Selection"
+    },
+    "moveTo":
+    {
+        "message": "Move To"
+    },
+    "delete":
+    {
+        "message": "Delete"
+    },
+    "open":
+    {
+        "message": "Open"
+    },
+    "selected":
+    {
+        "message": "Selected"
+    },
+    "unitName":
+    {
+        "message": "item"
+    },
+    "deleteSuccess":
+    {
+        "message": "Deleted succeed"
+    },
+    "wraningFiveWindows":
+    {
+        "message": "Do not open five or more windows at the same time"
+    },
+    "deleteConfirm":
+    {
+        "message": "Once the bookmark was deleted,it can't be restored. Continue to delete? "
+    },
+    "title":
+    {
+        "message": "Title"
+    },
+    "url":
+    {
+        "message": "Url"
+    },
+    "bookmarksEdit":
+    {
+        "message": "Edit Bookmarks"
+    },
+    "editCancel":
+    {
+        "message": "Cancel Editing"
+    },
+    "editSuccess":
+    {
+        "message": "Editing successfully"
+    }
+}

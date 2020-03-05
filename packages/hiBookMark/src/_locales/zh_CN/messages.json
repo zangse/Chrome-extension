@@ -1,0 +1,122 @@
+{
+    "appName":
+    {
+        "message": " 书签管理 "
+    },
+    "appDescription":
+    {
+        "message": " 在任何页面都可以通过书签关键字快速搜索打开书签,管理您的书签 "
+    },
+    "searchPlaceholder":
+    {
+        "message": " 搜索(输入内容，回车搜索) "
+    },
+    "noMatchResult":
+    {
+        "message": "暂无匹配结果,换个关键词试试"
+    },
+    "searchText":
+    {
+        "message": "搜索"
+    },
+    "allBookmarks":
+    {
+        "message": "所有书签"
+    },
+    "operateSuccess":
+    {
+        "message": "操作成功"
+    },
+    "operateCancel":
+    {
+        "message": "操作已取消"
+    },
+    "browsingHistory":
+    {
+        "message": "浏览历史"
+    },
+    "bookmarksBar":
+    {
+        "message": "书签栏"
+    },
+    "tipsText":
+    {
+        "message": "提示"
+    },
+    "cancel":
+    {
+        "message": "取消"
+    },
+    "confirm":
+    {
+        "message": "确定"
+    },
+    "close":
+    {
+        "message": "关闭"
+    },
+    "save":
+    {
+        "message": "保存"
+    },
+    "selectALL":
+    {
+        "message": "全选"
+    },
+    "unSelect":
+    {
+        "message": "反选"
+    },
+    "moveTo":
+    {
+        "message": "移动至"
+    },
+    "delete":
+    {
+        "message": "删除"
+    },
+    "open":
+    {
+        "message": "打开"
+    },
+    "selected":
+    {
+        "message": "已选择"
+    },
+    "unitName":
+    {
+        "message": "项"
+    },
+    "deleteSuccess":
+    {
+        "message": "删除成功"
+    },
+    "wraningFiveWindows":
+    {
+        "message": "请不要同时打开5个以上窗口"
+    },
+    "deleteConfirm":
+    {
+        "message": "书签删除后无法恢复，是否继续？"
+    },
+    "title":
+    {
+        "message": "标题"
+    },
+    "url":
+    {
+        "message": "地址"
+    },
+    "bookmarksEdit":
+    {
+        "message": "书签编辑"
+    },
+    "editCancel":
+    {
+        "message": "取消编辑"
+    },
+    "editSuccess":
+    {
+        "message": "编辑成功"
+    }
+}
