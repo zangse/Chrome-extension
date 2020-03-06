@@ -3,7 +3,6 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const CopyWebpackPlugin = require("copy-webpack-plugin");
 const UglifyJSPlugin = require("uglifyjs-webpack-plugin");
-const ExtractTextPlugin = require("extract-text-webpack-plugin");
 const ZipPlugin = require("zip-webpack-plugin");
 const path = require("path");
 const projectBaseDir = process.cwd();
@@ -26,7 +25,7 @@ module.exports = (env, argv) => {
       rules: [
         {
           test: /\.tsx?$/,
-          loader: "awesome-typescript-loader"
+          loader: "ts-loader"
         },
         {
           test: /\.scss$/,
@@ -53,8 +52,9 @@ module.exports = (env, argv) => {
         template: "src/index.html",
         inject: "body",
         chunks: ["option"],
+        hash: true,
+        title: "option page",
         minify: {
-          //压缩
           removeComments: true,
           collapseWhitespace: true
         }
@@ -63,9 +63,10 @@ module.exports = (env, argv) => {
         filename: "popup.html",
         template: "src/index.html",
         inject: "body",
+        title: "popup page",
         chunks: ["popup"],
+        hash: true,
         minify: {
-          //压缩
           removeComments: true,
           collapseWhitespace: true
         }
