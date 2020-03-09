@@ -11,7 +11,8 @@ module.exports = (env, argv) => {
   return {
     entry: {
       option: "./src/option/index.tsx",
-      popup: "./src/popup/index.tsx"
+      popup: "./src/popup/index.tsx",
+      content: "./src/content/index.ts"
     },
     output: {
       path: path.resolve(projectBaseDir, "dist"),

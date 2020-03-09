@@ -12,6 +12,17 @@
         "default_title": "__MSG_appName__",
         "default_popup": "popup.html"
     },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://music.163.com/*"
+            ],
+            "js": [
+                "content.main.js"
+            ],
+            "run_at": "document_end"
+        }
+    ],
     "options_page": "index.html",
     "commands": {
         "_execute_browser_action": {
@@ -25,12 +36,8 @@
     },
     "homepage_url": "https://github.com/zangse/vue-chrome-extension",
     "permissions": [
-        "activeTab",
-        "bookmarks",
         "tabs",
-        "history",
-        "http://*/*",
-        "https://*/*",
-        "<all_urls>"
+        "https://music.163.com/*",
+        "activeTab"
     ]
 }

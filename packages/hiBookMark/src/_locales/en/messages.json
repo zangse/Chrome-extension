@@ -1,122 +1,92 @@
 {
-    "appName":
-    {
-        "message": "hi Bookmarks"
+    "appName": {
+        "message": "NetGo"
     },
-    "appDescription":
-    {
+    "appDescription": {
         "message": " Manage your bookmarks and visit your bookmark through keywords searching on any page."
     },
-    "searchPlaceholder":
-    {
+    "searchPlaceholder": {
         "message": "Search(input keywords to auto match ) "
     },
-    "noMatchResult":
-    {
+    "noMatchResult": {
         "message": "No matching results,please try other keywords"
     },
-    "searchText":
-    {
+    "searchText": {
         "message": "Search"
     },
-    "allBookmarks":
-    {
+    "allBookmarks": {
         "message": "All bookmarks"
     },
-    "operateSuccess":
-    {
+    "operateSuccess": {
         "message": "Operation succeed"
     },
-    "operateCancel":
-    {
+    "operateCancel": {
         "message": "Operation has been canceled"
     },
-    "browsingHistory":
-    {
+    "browsingHistory": {
         "message": "Browsing history"
     },
-    "bookmarksBar":
-    {
+    "bookmarksBar": {
         "message": "Bookmark tab"
     },
-    "tipsText":
-    {
+    "tipsText": {
         "message": "Tips"
     },
-    "cancel":
-    {
+    "cancel": {
         "message": "Cancel"
     },
-    "confirm":
-    {
+    "confirm": {
         "message": "Confirm"
     },
-    "close":
-    {
+    "close": {
         "message": "Close"
     },
-    "save":
-    {
+    "save": {
         "message": "Save"
     },
-    "selectALL":
-    {
+    "selectALL": {
         "message": "Select All"
     },
-    "unSelect":
-    {
+    "unSelect": {
         "message": "Invert Selection"
     },
-    "moveTo":
-    {
+    "moveTo": {
         "message": "Move To"
     },
-    "delete":
-    {
+    "delete": {
         "message": "Delete"
     },
-    "open":
-    {
+    "open": {
         "message": "Open"
     },
-    "selected":
-    {
+    "selected": {
         "message": "Selected"
     },
-    "unitName":
-    {
+    "unitName": {
         "message": "item"
     },
-    "deleteSuccess":
-    {
+    "deleteSuccess": {
         "message": "Deleted succeed"
     },
-    "wraningFiveWindows":
-    {
+    "wraningFiveWindows": {
         "message": "Do not open five or more windows at the same time"
     },
-    "deleteConfirm":
-    {
+    "deleteConfirm": {
         "message": "Once the bookmark was deleted,it can't be restored. Continue to delete? "
     },
-    "title":
-    {
+    "title": {
         "message": "Title"
     },
-    "url":
-    {
+    "url": {
         "message": "Url"
     },
-    "bookmarksEdit":
-    {
+    "bookmarksEdit": {
         "message": "Edit Bookmarks"
     },
-    "editCancel":
-    {
+    "editCancel": {
         "message": "Cancel Editing"
     },
-    "editSuccess":
-    {
+    "editSuccess": {
         "message": "Editing successfully"
     }
 }

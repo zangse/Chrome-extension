@@ -1,122 +1,92 @@
 {
-    "appName":
-    {
-        "message": " 书签管理 "
+    "appName": {
+        "message": " NetGo "
     },
-    "appDescription":
-    {
+    "appDescription": {
         "message": " 在任何页面都可以通过书签关键字快速搜索打开书签,管理您的书签 "
     },
-    "searchPlaceholder":
-    {
+    "searchPlaceholder": {
         "message": " 搜索(输入内容，回车搜索) "
     },
-    "noMatchResult":
-    {
+    "noMatchResult": {
         "message": "暂无匹配结果,换个关键词试试"
     },
-    "searchText":
-    {
+    "searchText": {
         "message": "搜索"
     },
-    "allBookmarks":
-    {
+    "allBookmarks": {
         "message": "所有书签"
     },
-    "operateSuccess":
-    {
+    "operateSuccess": {
         "message": "操作成功"
     },
-    "operateCancel":
-    {
+    "operateCancel": {
         "message": "操作已取消"
     },
-    "browsingHistory":
-    {
+    "browsingHistory": {
         "message": "浏览历史"
     },
-    "bookmarksBar":
-    {
+    "bookmarksBar": {
         "message": "书签栏"
     },
-    "tipsText":
-    {
+    "tipsText": {
         "message": "提示"
     },
-    "cancel":
-    {
+    "cancel": {
         "message": "取消"
     },
-    "confirm":
-    {
+    "confirm": {
         "message": "确定"
     },
-    "close":
-    {
+    "close": {
         "message": "关闭"
     },
-    "save":
-    {
+    "save": {
         "message": "保存"
     },
-    "selectALL":
-    {
+    "selectALL": {
         "message": "全选"
     },
-    "unSelect":
-    {
+    "unSelect": {
         "message": "反选"
     },
-    "moveTo":
-    {
+    "moveTo": {
         "message": "移动至"
     },
-    "delete":
-    {
+    "delete": {
         "message": "删除"
     },
-    "open":
-    {
+    "open": {
         "message": "打开"
     },
-    "selected":
-    {
+    "selected": {
         "message": "已选择"
     },
-    "unitName":
-    {
+    "unitName": {
         "message": "项"
     },
-    "deleteSuccess":
-    {
+    "deleteSuccess": {
         "message": "删除成功"
     },
-    "wraningFiveWindows":
-    {
+    "wraningFiveWindows": {
         "message": "请不要同时打开5个以上窗口"
     },
-    "deleteConfirm":
-    {
+    "deleteConfirm": {
         "message": "书签删除后无法恢复，是否继续？"
     },
-    "title":
-    {
+    "title": {
         "message": "标题"
     },
-    "url":
-    {
+    "url": {
         "message": "地址"
     },
-    "bookmarksEdit":
-    {
+    "bookmarksEdit": {
         "message": "书签编辑"
     },
-    "editCancel":
-    {
+    "editCancel": {
         "message": "取消编辑"
     },
-    "editSuccess":
-    {
+    "editSuccess": {
         "message": "编辑成功"
     }
 }
